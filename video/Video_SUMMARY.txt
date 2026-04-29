@@ -1,0 +1,2 @@
+DESCRIPTION:
+Watching this video is highly recommended to supplement "The Actuator Pre-Filtering Approach to Control-Coherent Koopman LQR for Robot Systems Interacting with Compliant Environment" submitted to ICRA 2026. The video motivates the work, highlights the primary benefits of Control-Coherent Koopman modeling, and presents multiple animations of the cart-pole CCK controllers (standard cart-pole, with compliant walls, and with compliant walls and a torsional spring-damper).  
